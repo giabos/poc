@@ -14,7 +14,7 @@ body {
   align-items: center;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 30px;
+  padding: 10px;
 }
 .photo-capture {
   position: relative;
@@ -37,7 +37,7 @@ body {
   max-width: 100%;
 }
 .images {
-  padding: 0 30px;
+  padding: 0 10px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
